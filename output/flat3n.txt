@@ -1,0 +1,8 @@
+4,400,Unix,50,Operating System,unix
+2,500,SQL Server,60,DB,sql server
+2,900,Oracle,50,DB,oracle
+1,300,OOP,80,Programming,oop
+1,800,Java,60,Programming,java
+1,600,C#,80,Programming,c#
+1,200,C Progamming,60,Programming,c progamming
+3,1000,ASP.Net,60,Web,asp.net
